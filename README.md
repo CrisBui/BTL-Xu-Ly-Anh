@@ -1,4 +1,4 @@
-# BTL Xử lý ảnh - nhóm 04
+# BTL Xử lý ảnh - Nhóm BTL 04
 
 ## Đề tài: 05 - Ghép ảnh panorama (Chương 6)
 
@@ -25,5 +25,5 @@ Nghiệm thu sản phẩm:
 
 ## Hạn nộp
 
-- Báo cáo: 17/11
-- Tiến độ:
+- **Báo cáo: 17/11**
+- **Tiến độ:**
