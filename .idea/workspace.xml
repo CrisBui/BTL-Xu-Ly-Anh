@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8f23cef-840f-43eb-8606-53a8ac60af90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/BTL_XLA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/so1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/so2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageVisualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_222302_442645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_222350_865718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_222747_903668.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_224201_903236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_224829_352942.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_230253_502074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_231337_369235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_231425_208013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251128_231516_929971.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251129_230316_437768.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251129_231505_419082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251129_231554_346905.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/20251129_231630_715316.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/so1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/so2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/so2Xoay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/tajm1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/tajm1x2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/tajm2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/tajm3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/tajm4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TempDatas/test1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stitcher_manual.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3641eA6c3ko5lSBRLYiZkp2hhCX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ImageVisualizer.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.stitcher_manual.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "new-xla-main",
+    "last_opened_file_path": "C:/Users/PC/Desktop/BTL_XLA/app.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\BTL_XLA\Data" />
+      <recent name="C:\Users\PC\Desktop\BTL_XLA\TempDatas" />
+      <recent name="C:\Users\PC\Desktop\BTL_XLA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\BTL_XLA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BTL_XLA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (BTL_XLA)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Python.app" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8f23cef-840f-43eb-8606-53a8ac60af90" name="Changes" comment="" />
+      <created>1764251122449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764251122449</updated>
+    </task>
+    <servers />
+  </component>
+</project>
